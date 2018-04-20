@@ -6,6 +6,7 @@ include::topics/templates/document-attributes.adoc[]
 
 :imagesdir: topics/images
 :web-console-guide:
+:product-name: {WebName}
 
 = {WebConsoleBookName}
 
@@ -26,8 +27,8 @@ include::topics/web-installing.adoc[leveloffset=+1]
 // ZIP Installation
 include::topics/web-install-zip.adoc[leveloffset=+2]
 
-// Prerequisites
-include::topics/web-zip-prerequisites.adoc[leveloffset=+3]
+// Installation Prerequisites
+include::topics/installation-prerequisites.adoc[leveloffset=+3]
 
 // Install the {WebNameTitle}
 include::topics/web-install.adoc[leveloffset=+3]

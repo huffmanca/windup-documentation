@@ -6,6 +6,7 @@ include::topics/templates/document-attributes.adoc[]
 
 :imagesdir: topics/images
 :plugin-guide:
+:product-name: {PluginName}
 
 = {PluginBookName}
 

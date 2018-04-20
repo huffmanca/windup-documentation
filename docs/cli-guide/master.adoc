@@ -6,6 +6,7 @@ include::topics/templates/document-attributes.adoc[]
 
 :imagesdir: topics/images
 :cli-guide:
+:product-name: {CLIName}
 
 = {UserCLIBookName}
 
@@ -25,8 +26,8 @@ include::topics/about-cli.adoc[leveloffset=+2]
 
 == Getting Started
 
-// Prerequisites
-include::topics/cli-prerequisites.adoc[leveloffset=+2]
+// Installation Prerequisites
+include::topics/installation-prerequisites.adoc[leveloffset=+2]
 
 // Install the CLI
 include::topics/install.adoc[leveloffset=+2]
